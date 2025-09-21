@@ -4,6 +4,10 @@
 This is a **shopping app template** built with **SwiftUI + Combine**.
 It provides a clean, modular, and reusable foundation for an e-commerce experience.
 
+<img src = "https://raw.githubusercontent.com/raj-engineer/EcomApp/refs/heads/main/EcomApp/Screenshots/ProductList.png" alt="App Screenshot" width="200" height="400"/>       <img src = "https://raw.githubusercontent.com/raj-engineer/EcomApp/refs/heads/main/EcomApp/Screenshots/ProductDetail.png" alt="App Screenshot" width="200" height="400"/>
+<img src = "https://raw.githubusercontent.com/raj-engineer/EcomApp/refs/heads/main/EcomApp/Screenshots/Cart.png" alt="App Screenshot" width="200" height="400"/>       <img src = "https://raw.githubusercontent.com/raj-engineer/EcomApp/refs/heads/main/EcomApp/Screenshots/Checkout.png" alt="App Screenshot" width="200" height="400"/>
+<img src = "https://raw.githubusercontent.com/raj-engineer/EcomApp/refs/heads/main/EcomApp/Screenshots/OrderConfirmed.png" alt="App Screenshot" width="200" height="400"/>       <img src = "https://raw.githubusercontent.com/raj-engineer/EcomApp/refs/heads/main/EcomApp/Screenshots/Favourites.png" alt="App Screenshot" width="200" height="400"/>
+
 ### ✨ Key Features
 
 * **Product Browsing**
@@ -53,3 +57,4 @@ It provides a clean, modular, and reusable foundation for an e-commerce experien
 * **UserDefaults** → Local persistence for favorites
 * **Protocol-Oriented Design** → Easy to swap services (e.g., mock vs real API)
 * **EnvironmentObject** → Shared state across views (cart, favorites, products)
+
